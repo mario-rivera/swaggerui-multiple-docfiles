@@ -1,0 +1,14 @@
+[
+    {
+        "name": "PETSTORE",
+        "url": "./docs/petstore.yaml"
+    },
+    {
+        "name": "CALLBACKS",
+        "url": "./docs/callbacks.yaml"
+    },
+    {
+        "name": "LINKS",
+        "url": "./docs/links.yaml"
+    }
+]
